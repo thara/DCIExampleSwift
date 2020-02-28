@@ -1,3 +1,3 @@
-# DCISampleSwift
+# DCI example written in Swift 
 
-A description of this package.
+Porting https://github.com/j5ik2o/dci-example-rs in Swift
